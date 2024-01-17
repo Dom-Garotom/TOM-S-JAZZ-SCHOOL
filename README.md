@@ -1,1 +1,1 @@
-# TOM-S-JAZZ-SCHOOL
+#Esse foi o meu primeiro projeto sem auxílio de nenhum tutorial ou pessoa. Ele foi feito com base em um projeto público do Figma que peguei no YouTube. Acabei tendo um pouco de dificuldade no início devido a ter que colocar as engrenagens da minha cabeça para girar. Contudo, quanto mais eu me forçava a fazer sem auxílio, mais conseguia aprender e resolver erros, bugs e contratempos que apareciam. Hoje, ao finalizar esse projeto, sinto que estou cada vez mais perto de alcançar meu sonho, mesmo que ainda esteja distante.
